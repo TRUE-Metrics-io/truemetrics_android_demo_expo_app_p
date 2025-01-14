@@ -2,6 +2,8 @@
 
 ## Get started
 
+Read Quickstart SDK [documentation](https://docu.truemetrics.cloud/quickstart)
+
 1. Install dependencies
 
 ```bash
